@@ -34,6 +34,7 @@ Visit `http://localhost:5173` to view the application.
 - **Primary UI Generation**: Copilot was extensively used for generating React component structures, Tailwind CSS classes, and responsive layouts
 - **API Integration**: Assisted in writing TypeScript interfaces and React Query hooks
 - **Styling Patterns**: Generated consistent grey/white theme classes and responsive grid layouts
+- **Documentation**: Copilot helped in writing this README
 
 ### **Key Design Decisions**
 
